@@ -1,0 +1,161 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="public">
+<head>
+<title>StackBlitz</title>
+<meta charset="utf-8">
+<meta property="og:type" content="object" />
+<meta property="og:site_name" content="StackBlitz" />
+<meta property="og:title" content="StackBlitz">
+<meta property="og:image" content="https://c.staticblitz.com/assets/social_general-46c72e351133f2b4d1352d8d870ce851ab16a59b0b2f10e41e11e036a88b7273.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="StackBlitz">
+<meta name="twitter:image" content="https://c.staticblitz.com/assets/social_general-46c72e351133f2b4d1352d8d870ce851ab16a59b0b2f10e41e11e036a88b7273.jpg">
+<meta name="twitter:site" content="@StackBlitz">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#2e3138">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="opWznYMrOzVHO95AKeUUEiIkGAeiOJx6DHkdnfwZh40G1a1S2UUp23XxxmhlCWDe2paTRWbKdqqsHofMz-Q96A" />
+<meta name="action-cable-url" content="/cable" />
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" type="image/svg+xml" href="https://c.staticblitz.com/assets/favicon_sb-861fe1b85c0dc928750c62de15fed96fc75e57ee366bd937bad17a3938917b3f.svg">
+<link rel="icon" type="image/png" href="https://c.staticblitz.com/assets/favicon_sb-148f9e9aced4a6363b4a8232686c3d8998d3eabaab1a06385fd3f1996baf3a3e.png">
+<link rel="apple-touch-icon" type="image/png" href="https://c.staticblitz.com/assets/icons/icon-512x512-eb09dde1908d3c6968da8cda947cf8a1a1b966c8f54886a7a188e41e5576d829.png">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Roboto+Mono:wght@400;600&amp;display=swap" />
+<link rel="stylesheet" href="https://c.staticblitz.com/assets/vite/public_fonts_gilroy-36e5efc5.css" />
+<script>
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";analytics.load("ta1kDK49qdEDEfd8KYxI37mW0GPkLKn1");}}();
+</script><script type="text/javascript">
+  (function (d, u, h, s) {
+    h = d.getElementsByTagName('head')[0];
+    s = d.createElement('script');
+    s.async = 1;
+    s.src = u + new Date().getTime();
+    h.appendChild(s);
+  })(document, 'https://grow.clearbitjs.com/api/pixel.js?v=');
+</script>
+
+
+<script src="https://c.staticblitz.com/assets/vite/public-826d2f50.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="https://c.staticblitz.com/assets/vite/entrypoint-07753a5a.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://c.staticblitz.com/assets/vite/_commonjsHelpers-042e6b4d.js" as="script" crossorigin="anonymous"><link rel="stylesheet" media="screen" href="https://c.staticblitz.com/assets/vite/public-10298dbd.css" />
+<link rel="stylesheet" media="screen" href="https://c.staticblitz.com/assets/vite/entrypoint-234c1c34.css" />
+</head>
+<body>
+
+<script type="application/json" data-redux-store="">{"auth":{"loggedIn":false,"user":{},"guest":{"id":"256b3ea7-2744-44a9-9563-3c29ee9b75d5"}},"settings":{},"features":{"projects_rbac":true,"projects_webcontainer":true,"web_publisher":true,"custom_registries":true},"config":{"staticAssetHost":"v-corp.staticblitz.com"},"webcontainer":{"options":{"baseUrl":"https://w.staticblitz.com","initOptions":{"server":"https://local.webcontainer.io","isolationPolicy":null,"version":"e809191e"},"systemBinaries":{"git":false},"git":{"proxy":"https://p.stackblitz.com"},"turboBaseUrl":"https://t.staticblitz.com","registryProxy":"https:/nr.staticblitz.com"},"exportName":null},"starters":{"projects":[]}}</script>
+
+<div data-react-component="PublicHeader" data-react-props="{&quot;theme&quot;:&quot;dark&quot;,&quot;pathname&quot;:&quot;/files/vitejs-vite-hpmuv2/github/StreakingMan/solvable-sheep-game/master/diy/public/4.png&quot;}"></div>
+
+
+    <div class="public-page public-static">
+      <div class="public-section">
+          <main class="public-section__content">
+    <div class="public-section__error">
+      <div class="public-icon exclamation-triangle"></div>
+<h1>500: Error</h1>
+<p>
+  <strong>Sorry, something went wrong.</strong>
+</p>
+<p>
+  Please try again later or click <a href="/">here</a> to return back to the homepage.
+</p>
+
+
+      <p>
+        If you think this is a bug or problem on our end, please
+        <a
+          href="https://github.com/stackblitz/core"
+          target="_blank"
+          rel="noopener noreferrer"
+        >file an issue</a>.
+      </p>
+    </div>
+  </main>
+
+      </div>
+    </div>
+
+
+<footer class="public-section public-footer">
+  <div class="public-section__content">
+    <ul>
+
+      <li>
+        <h4>Workspaces</h4>
+        <ul>
+          <li><a href="/?starters=popular">Popular</a></li>
+          <li><a href="/?starters=frontend">Frontend</a></li>
+          <li><a href="/?starters=backend">Backend</a></li>
+          <li><a href="/?starters=fullstack">Fullstack</a></li>
+          <li><a href="/?starters=vite">Vite</a></li>
+          <li><a href="/?starters=docs">Docs, Blogs &amp; Slides</a></li>
+          <li><a href="/?starters=vanilla">Vanilla</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <h4>Start a new Project</h4>
+        <ul>
+          <li><a href="/?starters=popular">From a Workspace</a></li>
+          <li><a href="https://developer.stackblitz.com/guides/user-guide/importing-projects#import-from-github">From a GitHub Repo</a></li>
+          <li><a href="https://developer.stackblitz.com/guides/user-guide/importing-projects#upload-from-your-computer">From your computer</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <h4>Product</h4>
+        <ul>
+          <li><a href="https://developer.stackblitz.com">Docs</a></li>
+          <li><a href="/enterprise">Enterprise</a></li>
+          <li><a href="/membership">Pricing</a></li>
+          <li><a href="/case-studies/google">Case Studies</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://blog.stackblitz.com" target="_blank" rel="noopener">Blog</a></li>
+          <li><a href="/careers">Careers</a></li>
+          <li><a href="https://discord.gg/stackblitz" target="_blank" rel="noopener">Community</a></li>
+          <li><a href="/enterprise-contact">Enterprise Sales</a></li>
+          <li><a href="/privacy-policy">Privacy</a></li>
+          <li><a href="/terms-of-service">Terms of Service</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <h4>Connect</h4>
+        <ul>
+          <li><a href="https://github.com/stackblitz/core" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://twitter.com/stackblitz" target="_blank" rel="noopener">Twitter</a></li>
+          <li><a href="https://discord.gg/stackblitz" target="_blank" rel="noopener">Discord</a></li>
+        </ul>
+      </li>
+
+    </ul>
+  </div>
+  <div class="public-footer__copyright">
+    <p>© 2023 StackBlitz, Inc.</p>
+    <p class="secondary">StackBlitz Codeflow and the Infinite Pull Request logo are trademarks of StackBlitz, Inc.</p>
+  </div>
+</footer>
+
+
+<script>
+if (typeof Analytics !== 'undefined') {
+  Analytics.page();
+} else if (typeof analytics !== 'undefined') {
+  analytics.page(); 
+}
+</script>
+</body>
+</html>
+
+
