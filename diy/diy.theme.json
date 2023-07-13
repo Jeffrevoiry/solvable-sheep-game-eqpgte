@@ -1,13 +1,14 @@
 {
   "title": "机了个机",
-  "desc": "哈哈哈",
+  "desc": "三体丶ququ：ꀂꀘꀺꁘꁸꂓꂰꃏꃤꄂꄜꄸꅓꅪꅿꆙꆹꇜꇺꈖꉈꊏꊰꋒꋯꌋꌬꏢꏾꐚꐳ",
   "bgm": "/sound-disco.mp3",
-  "dark": true,
-  "background": "",
-  "backgroundBlur": false,
+  "bold": true,
+  "dark": false,
+  "background": "/bk.png",
+  "backgroundBlur": true,
   "backgroundColor": "#8dac85",
   "pure": true,
-  "maxLevel": 50,
+  "maxLevel": 20,
   "icons": [
     {
       "name": "1",
